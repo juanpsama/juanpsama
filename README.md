@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hola, mi nombre es Juan P. 👋
+### Python & DataScience Developer
 
 <!--
 **juanpsama/juanpsama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
