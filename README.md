@@ -1,6 +1,6 @@
 # About Me
 
-Hey there! 👋 I'm Juan Pablo, a enthusiastic junior developer.
+Hey there! 👋 I'm Juan Pablo, a junior developer.
 
 ## Background
 
