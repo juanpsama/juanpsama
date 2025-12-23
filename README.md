@@ -5,7 +5,7 @@ Hey there! 👋 I'm Juan Pablo, a junior developer.
 ## Background
 
 - 💻 I'm primarily a Python enthusiast, but I've also dabbled in C# for game development with Unity, where I've created a few cool video games.
-- 🌐 I'm no stranger to web development either, having worked with Python Web frameworks like Flask and Django and now venturing into the realm of frontend frameworks like Vue.js.
+- 🌐 I'm no stranger to web development either, having worked with Python Web frameworks like Flask and Django and now venturing into the realm of frontend frameworks on the web and on multiplatform too using Flutter.
 
 ## Tech Enthusiast
 
